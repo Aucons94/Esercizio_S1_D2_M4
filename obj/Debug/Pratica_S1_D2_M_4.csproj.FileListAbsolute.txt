@@ -1,0 +1,7 @@
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_2_pratica\Pratica_S1_D2_M_4\Pratica_S1_D2_M_4\bin\Debug\Pratica_S1_D2_M_4.exe.config
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_2_pratica\Pratica_S1_D2_M_4\Pratica_S1_D2_M_4\bin\Debug\Pratica_S1_D2_M_4.exe
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_2_pratica\Pratica_S1_D2_M_4\Pratica_S1_D2_M_4\bin\Debug\Pratica_S1_D2_M_4.pdb
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_2_pratica\Pratica_S1_D2_M_4\Pratica_S1_D2_M_4\obj\Debug\Pratica_S1_D2_M_4.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_2_pratica\Pratica_S1_D2_M_4\Pratica_S1_D2_M_4\obj\Debug\Pratica_S1_D2_M_4.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_2_pratica\Pratica_S1_D2_M_4\Pratica_S1_D2_M_4\obj\Debug\Pratica_S1_D2_M_4.exe
+C:\Users\Alessandro\Desktop\Back-end\Mese 1\Settimana 1\Giorno_2_pratica\Pratica_S1_D2_M_4\Pratica_S1_D2_M_4\obj\Debug\Pratica_S1_D2_M_4.pdb
