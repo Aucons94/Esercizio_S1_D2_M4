@@ -10,7 +10,6 @@ namespace Pratica_S1_D2_M_4
     {
         private String _nome, _cognome;
         private int _eta;
-
         public string Nome
         {
             get
@@ -22,7 +21,6 @@ namespace Pratica_S1_D2_M_4
                 _nome = value;
             }
         }
-
         public string Cognome
         {
             get
